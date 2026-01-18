@@ -1,0 +1,7 @@
+I want to make a desktop application that I can use plan my schedule and focus on my goals. I want it to promote consistency over anything else
+(How do I make sure it promotes consistency?). I want it to be tailored for someone who has ADHD (because I might have it) and be very simple,
+not too convoluted or needing lots of extra features that add complications.
+
+Framework/Languages:
+Tauri (rust)
+React (typescript)
